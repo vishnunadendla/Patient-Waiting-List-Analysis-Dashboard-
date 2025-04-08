@@ -1,5 +1,8 @@
 # End-to-End Power BI Dashboard Development for Patient Waiting List
 
+![Patient Waiting List Dashboard](hospital_sheet1.jpg)
+![Patient Waiting List Dashboard](hospital_sheet2.jpg)
+
 ## Overview
 
 This project showcases the end-to-end process of developing a Power BI dashboard, using publicly available healthcare data focused on the Patient Waiting List. It covers everything from requirement gathering to data collection, transformation, modeling, visualization, and deployment, providing a comprehensive guide on creating meaningful insights for business stakeholders.
@@ -62,7 +65,5 @@ Creating a visualization blueprint or wireframe to understand the layout and ele
 - **Developed Tooltip Page** to provide additional insights when hovering over the line chart in the summary page, showing specialty and total waitlist details.
 - **Enhanced the dashboard’s aesthetics** by drawing inspiration from external resources (Google, Adobe Stock), extracting color palettes from Color.Adobe.com, and designing a custom background using PowerPoint or Canva. The final design was used as a background in Power BI to improve the visual appeal.
 
-![Patient Waiting List Dashboard](hospital_sheet1.jpg)
-![Patient Waiting List Dashboard](hospital_sheet2.jpg)
 
 
